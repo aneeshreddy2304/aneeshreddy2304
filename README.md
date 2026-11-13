@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Aneesh Reddy! 👋
+# Hi there, I'm Aneesh! 👋
 
 ### Software Engineering · Applied AI · Cloud & Data Systems
 
-**M.S. Computer Science @ Virginia Commonwealth University** · **AWS Certified Solutions Architect – Associate**
-
-Building practical software and intelligent systems — from research hardware to cloud platforms, machine learning, and full-stack applications.
+**M.S. Computer Science · Virginia Commonwealth University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeshreddy2304)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshreddy2304)
@@ -16,101 +14,84 @@ Building practical software and intelligent systems — from research hardware t
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software engineer and graduate researcher at **Virginia Commonwealth University**, working across software development, data engineering, applied AI, and cloud infrastructure.
+I'm a Computer Science graduate student and Graduate Research Assistant at Virginia Commonwealth University. My work sits at the intersection of software engineering, artificial intelligence, and data systems, with a particular interest in building complete solutions that operate beyond a development environment.
 
-- 🔭 **Currently building:** food-waste tracking and analytics systems that connect Raspberry Pi devices, calibrated weighing, NFC identification, and data-processing workflows.
-- 💡 **What I enjoy:** turning ideas into usable, maintainable applications — from the backend and data pipeline to the interface.
-- 🤝 **Interested in:** collaborating on software engineering, machine learning, and cloud-native projects.
-- ☁️ **Certified:** AWS Solutions Architect – Associate.
+I enjoy connecting the different layers of engineering—from physical devices and data pipelines to intelligent applications and cloud infrastructure—to solve meaningful, real-world problems.
 
-## 🛠️ Tech Stack
+## 🔬 Research & Engineering Experience
 
-<div align="center">
+**Graduate Research Assistant · Virginia Commonwealth University**  
+**USDA SARE–funded food-loss and waste research initiative**
 
-### Programming Languages
+I'm contributing to an interdisciplinary research initiative aimed at reducing food waste and improving food recovery across university dining operations. The project combines engineering, sustainability, and food-systems research to measure waste, understand consumption patterns, and inform data-driven interventions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### PlateTracker — Intelligent Food-Waste Measurement
 
-### Frameworks & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-212121?style=for-the-badge&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Cloud, Databases & Developer Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-### [Retail Decision Lab](https://github.com/aneeshreddy2304/Retail-Decision-Lab) — Retail Forecasting & Decision Intelligence
-
-- Developed a Python-based retail decision-support workspace using historical store-sales data, demand forecasting, promotion exploration, and SQL analytics.
-- Built reproducible feature engineering, machine-learning workflows, and a Streamlit interface for examining demand and planning scenarios.
-
-**Stack:** Python · LightGBM · pandas · Streamlit · SQLite
-
-### [IncidentPilot](https://github.com/aneeshreddy2304/IncidentPilot) — AI-Assisted Kubernetes Operations
-
-- Built a Kubernetes operations console that brings together workload health, cluster diagnostics, logs, and metrics.
-- Integrated AI-assisted investigation with a human-review process for proposed infrastructure remediation.
-
-**Stack:** Go · React · Kubernetes · Prometheus · Ollama
-
-### [AirPulse](https://github.com/aneeshreddy2304/AirPulse) — Air-Quality Data & ML Platform
-
-- Developed environmental data ingestion and cloud lakehouse workflows to support air-quality forecasting and analysis.
-- Connected model training and artifacts to a FastAPI prediction service with caching and supporting data infrastructure.
-
-**Stack:** Python · AWS · Apache Iceberg · XGBoost · FastAPI · Redis
-
-### [Wingman / RoadAssist](https://github.com/aneeshreddy2304/Wingman) — Full-Stack Roadside Assistance
-
-- Built a platform for location-aware mechanic discovery, roadside service coordination, and spare-parts workflows.
-- Developed role-based frontend experiences, backend services, and geospatial database operations.
-
-**Stack:** FastAPI · React · PostgreSQL · PostGIS · Docker
-
-### [EmotionX](https://github.com/aneeshreddy2304/EmotionX) — Multi-Label Emotion Recognition
-
-- Developed a hybrid NLP workflow combining contextual language representations, bidirectional sequence modeling, and attention.
-- Organized training, evaluation, and interactive inference around a multi-label emotion classification task.
-
-**Stack:** PyTorch · Transformers · BiLSTM · scikit-learn
-
-<div align="center">
-
-**[Explore All Repositories](https://github.com/aneeshreddy2304?tab=repositories)**
-
-</div>
-
-## 🔬 Research at VCU
-
-### PlateTracker — Edge Computing & Food-Waste Measurement
-
-Graduate research developing a food-service measurement system that integrates **Raspberry Pi hardware, weighing sensors, NFC identification, camera capture, and local data collection** to record serving and return events.
+I develop and deploy an automated plate-waste tracking system in VCU dining operations, integrating Raspberry Pi devices, precision weighing sensors, NFC identification, cameras, and touchscreen applications. It captures measurements at food-serving and dish-return stations, connecting physical workflows with structured digital records. My work spans hardware–software integration, Python development, computer vision research, device reliability, and automated data collection in an active dining environment.
 
 ### Food Waste Analytics — Data Engineering & Decision Support
 
-Developing structured workflows to validate serving and return records, reconcile food-waste measurements, handle uncertain observations, and organize data for dining and sustainability analysis.
+I develop data-processing workflows that turn PlateTracker's raw measurements into reliable food-waste records, including automated ETL, validation, serving–return reconciliation, and handling incomplete or uncertain observations. The aim is to support analysis across food stations and meal periods, providing a foundation for dashboards, research evaluations, and evidence-based waste-reduction decisions.
 
-*University research source code and datasets are not publicly linked.*
+**Research context:** [USDA SARE project FLW24-004](https://projects.sare.org/sare_project/flw24-004/)
 
-## 🎓 Education & Certification
+## 🚀 Selected Projects
 
-- **M.S. in Computer Science** — Virginia Commonwealth University
-- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+Beyond my research, I explore how software engineering, machine learning, and cloud technologies come together to solve different problems. In [Retail Decision Lab](https://github.com/aneeshreddy2304/Retail-Decision-Lab), I built an end-to-end retail analytics platform that combines demand forecasting, promotion analysis, and interactive tools to support planning decisions. My interest in intelligent infrastructure led me to develop [IncidentPilot](https://github.com/aneeshreddy2304/IncidentPilot), an AI-assisted Kubernetes operations platform that brings together system observability, incident investigation, and human-approved remediation. With [AirPulse](https://github.com/aneeshreddy2304/AirPulse), I focused on cloud-based data engineering and machine learning, integrating environmental data pipelines, forecasting models, and API-based inference. I also developed [Wingman](https://github.com/aneeshreddy2304/Wingman), a full-stack roadside assistance platform connecting drivers, mechanics, and service providers through location-aware discovery and coordinated service workflows.
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-245066?style=for-the-badge) ![LightGBM](https://img.shields.io/badge/LightGBM-266F4A?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend & Data Engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Cloud, Databases & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Frontend & Visualization**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+## 🎓 Education
+
+**Master of Science in Computer Science** · Virginia Commonwealth University
+
+## 🏅 Certifications & Accreditations
+
+<div align="center">
+
+<table>
+<tr><td align="center" width="170"><img src="assets/certifications/aws-certified-solutions-architect-associate.webp" alt="AWS Certified Solutions Architect – Associate badge" width="105"></td><td><strong>AWS Certified Solutions Architect – Associate</strong></td></tr>
+<tr><td align="center"><img src="assets/certifications/google-ai-fundamentals.webp" alt="Google AI Fundamentals badge" width="100"></td><td><strong>AI Fundamentals — Google</strong></td></tr>
+<tr><td align="center"><img src="assets/certifications/databricks.webp" alt="Databricks issuer symbol" width="62"></td><td><strong>Academy Accreditation – Generative AI — Databricks</strong></td></tr>
+<tr><td align="center"><img src="assets/certifications/anthropic.webp" alt="Anthropic issuer symbol" width="62"></td><td><strong>Claude Code in Action — Anthropic</strong></td></tr>
+<tr><td align="center"><img src="assets/certifications/anthropic.webp" alt="Anthropic issuer symbol" width="62"></td><td><strong>AI Fluency Framework & Foundations — Anthropic</strong></td></tr>
+<tr><td align="center"><img src="assets/certifications/great-learning.webp" alt="Great Learning issuer symbol" width="62"></td><td><strong>TensorFlow and Keras — Great Learning</strong></td></tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
-I'm interested in conversations and opportunities involving software engineering, applied AI, and cloud/data systems.
-
-[**LinkedIn**](https://www.linkedin.com/in/aneeshreddy2304) · [**Email**](mailto:aneeshreddy2304@gmail.com) · [**Repositories**](https://github.com/aneeshreddy2304?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/aneeshreddy2304) · [Email](mailto:aneeshreddy2304@gmail.com)
 
 </div>
