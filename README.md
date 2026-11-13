@@ -4,7 +4,7 @@
 
 ### Software Engineering · Applied AI · Cloud & Data Systems
 
-***M.S. Computer Science · Virginia Commonwealth University***
+*M.S. Computer Science · Virginia Commonwealth University*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeshreddy2304)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshreddy2304)
@@ -18,13 +18,13 @@
 
 I'm a Computer Science graduate student and ***Graduate Research Assistant*** at Virginia Commonwealth University. My work sits at the intersection of software engineering, artificial intelligence, and data systems, with a particular interest in building complete solutions that operate beyond a development environment.
 
-I enjoy connecting the different layers of engineering; from physical devices and data pipelines to intelligent applications and cloud infrastructure—to solve meaningful, real-world problems.
+I enjoy connecting the different layers of engineering; from physical devices and data pipelines to intelligent applications and cloud infrastructure, to solve meaningful, real-world problems.
 
 ## Research & Engineering Experience
 
 ### **Graduate Research Assistant · Virginia Commonwealth University**
 
-***United States Department of Agriculture & Sustainable Agriculture Research and Education - Funded Food-Loss and Waste Research***
+*<u>United States Department of Agriculture & Sustainable Agriculture Research and Education Funded Food-Loss and Waste Research</u>*
 
 I'm contributing to an interdisciplinary research initiative aimed at reducing food waste and improving food recovery across university dining operations. The project combines engineering, sustainability, and food-systems research to measure waste, understand consumption patterns, and inform data-driven interventions.
 
