@@ -76,25 +76,9 @@ Beyond my research, I explore how software engineering, machine learning, and cl
 
 ## 🏅 Certifications & Accreditations
 
-<div align="center">
-
-<table>
-<tr><td align="center" width="170"><img src="assets/certifications/aws-certified-solutions-architect-associate.webp" alt="AWS Certified Solutions Architect – Associate badge" width="105"></td><td><strong>AWS Certified Solutions Architect – Associate</strong></td></tr>
-<tr><td align="center"><img src="assets/certifications/google-ai-fundamentals.webp" alt="Google AI Fundamentals badge" width="100"></td><td><strong>AI Fundamentals — Google</strong></td></tr>
-<tr><td align="center"><img src="assets/certifications/databricks.webp" alt="Databricks issuer symbol" width="62"></td><td><strong>Academy Accreditation – Generative AI — Databricks</strong></td></tr>
-<tr><td align="center"><img src="assets/certifications/anthropic.webp" alt="Anthropic issuer symbol" width="62"></td><td><strong>Claude Code in Action — Anthropic</strong></td></tr>
-<tr><td align="center"><img src="assets/certifications/anthropic.webp" alt="Anthropic issuer symbol" width="62"></td><td><strong>AI Fluency Framework & Foundations — Anthropic</strong></td></tr>
-<tr><td align="center"><img src="assets/certifications/great-learning.webp" alt="Great Learning issuer symbol" width="62"></td><td><strong>TensorFlow and Keras — Great Learning</strong></td></tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/aneeshreddy2304) · [Email](mailto:aneeshreddy2304@gmail.com)
-
-</div>
+- <img src="assets/certifications/aws-certified-solutions-architect-associate.webp" alt="AWS certification badge" width="42" valign="middle"> **AWS Certified Solutions Architect – Associate**
+- <img src="assets/certifications/google-ai-fundamentals.webp" alt="Google AI Fundamentals badge" width="42" valign="middle"> **AI Fundamentals — Google**
+- <img src="assets/certifications/databricks.webp" alt="Databricks" width="38" valign="middle"> **Academy Accreditation – Generative AI — Databricks**
+- <img src="assets/certifications/anthropic.webp" alt="Anthropic" width="38" valign="middle"> **Claude Code in Action — Anthropic**
+- <img src="assets/certifications/anthropic.webp" alt="Anthropic" width="38" valign="middle"> **AI Fluency Framework & Foundations — Anthropic**
+- <img src="assets/certifications/great-learning.webp" alt="Great Learning" width="38" valign="middle"> **TensorFlow and Keras — Great Learning**
