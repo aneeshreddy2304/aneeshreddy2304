@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aneesh! 👋
+# *Hi there, I'm Aneesh! 👋*
 
 ### Software Engineering · Applied AI · Cloud & Data Systems
 
@@ -24,7 +24,9 @@ I enjoy connecting the different layers of engineering; from physical devices an
 
 ### **Graduate Research Assistant · Virginia Commonwealth University**
 
-*<u>United States Department of Agriculture & Sustainable Agriculture Research and Education Funded Food-Loss and Waste Research</u>*
+
+*<ins>United States Department of Agriculture & Sustainable Agriculture Research and Education Funded Research</ins>*
+
 
 I'm contributing to an interdisciplinary research initiative aimed at reducing food waste and improving food recovery across university dining operations. The project combines engineering, sustainability, and food-systems research to measure waste, understand consumption patterns, and inform data-driven interventions.
 
@@ -42,7 +44,8 @@ I develop data-processing workflows that turn PlateTracker's raw measurements in
 
 ## Selected Projects
 
-Beyond my research, I explore how software engineering, machine learning, and cloud technologies come together to solve different problems. In ***[Retail Decision Lab](https://github.com/aneeshreddy2304/Retail-Decision-Lab)***, I built an end-to-end retail analytics platform that combines demand forecasting, promotion analysis, and interactive tools to support planning decisions. My interest in intelligent infrastructure led me to develop *** [IncidentPilot](https://github.com/aneeshreddy2304/IncidentPilot)***, an AI-assisted Kubernetes operations platform that brings together system observability, incident investigation, and human-approved remediation. With ***[AirPulse](https://github.com/aneeshreddy2304/AirPulse)***, I focused on cloud-based data engineering and machine learning, integrating environmental data pipelines, forecasting models, and API-based inference. I also developed *** [Wingman](https://github.com/aneeshreddy2304/Wingman)***, a full-stack roadside assistance platform connecting drivers, mechanics, and service providers through location-aware discovery and coordinated service workflows.
+Beyond my research, I explore how software engineering, machine learning, and cloud technologies come together to solve different problems. In [***Retail Decision Lab***](https://github.com/aneeshreddy2304/Retail-Decision-Lab), I built an end-to-end retail analytics platform that combines demand forecasting, promotion analysis, and interactive tools to support planning decisions. My interest in intelligent infrastructure led me to develop [***IncidentPilot***](https://github.com/aneeshreddy2304/IncidentPilot), an AI-assisted Kubernetes operations platform that brings together system observability, incident investigation, and human-approved remediation. With [***AirPulse***](https://github.com/aneeshreddy2304/AirPulse), I focused on cloud-based data engineering and machine learning, integrating environmental data pipelines, forecasting models, and API-based inference. I also developed [***Wingman***](https://github.com/aneeshreddy2304/Wingman), a full-stack roadside assistance platform connecting drivers, mechanics, and service providers through location-aware discovery and coordinated service workflows.
+
 
 ## Technical Skills
 
@@ -73,9 +76,33 @@ Beyond my research, I explore how software engineering, machine learning, and cl
 
 ## Certifications & Accreditations
 
-- <img src="assets/certifications/aws-certified-solutions-architect-associate.webp" alt="AWS certification badge" width="42" valign="middle"> **AWS Certified Solutions Architect – Associate**
-- <img src="assets/certifications/google-ai-fundamentals.webp" alt="Google AI Fundamentals badge" width="42" valign="middle"> **AI Fundamentals — Google**
-- <img src="assets/certifications/databricks.webp" alt="Databricks" width="38" valign="middle"> **Academy Accreditation – Generative AI — Databricks**
-- <img src="assets/certifications/anthropic.webp" alt="Anthropic" width="38" valign="middle"> **Claude Code in Action — Anthropic**
-- <img src="assets/certifications/anthropic.webp" alt="Anthropic" width="38" valign="middle"> **AI Fluency Framework & Foundations — Anthropic**
-- <img src="assets/certifications/great-learning.webp" alt="Great Learning" width="38" valign="middle"> **TensorFlow and Keras — Great Learning**
+<p>
+  <img src="assets/certifications/aws-certified-solutions-architect-associate.webp" width="42" align="center" />
+  <strong>AWS Associate Solutions Architect</strong>
+</p>
+
+<p>
+  <img src="assets/certifications/google-ai-fundamentals.webp" width="42" align="center" />
+  <strong>Google AI Fundamentals</strong>
+</p>
+
+<p>
+  <img src="assets/certifications/databricks.webp" width="38" align="center" />
+  <strong>Databricks Generative AI Academy Accreditation</strong>
+</p>
+
+<p>
+  <img src="assets/certifications/anthropic.webp" width="38" align="center" />
+  <strong>Anthropic Claude Code in Action</strong>
+</p>
+
+<p>
+  <img src="assets/certifications/anthropic.webp" width="38" align="center" />
+  <strong>Anthropic AI Fluency Framework & Foundations</strong>
+</p>
+
+<p>
+  <img src="assets/certifications/great-learning.webp" width="38" align="center" />
+  <strong>Great Learning TensorFlow/Keras and Deep Learning</strong>
+</p>
+
