@@ -22,20 +22,23 @@ I enjoy connecting the different layers of engineering—from physical devices a
 
 ## 🔬 Research & Engineering Experience
 
-**Graduate Research Assistant · Virginia Commonwealth University**  
-**USDA SARE–funded food-loss and waste research initiative**
+### Graduate Research Assistant · Virginia Commonwealth University
+
+*USDA SARE–funded food-loss and waste research initiative*
 
 I'm contributing to an interdisciplinary research initiative aimed at reducing food waste and improving food recovery across university dining operations. The project combines engineering, sustainability, and food-systems research to measure waste, understand consumption patterns, and inform data-driven interventions.
 
-### PlateTracker — Intelligent Food-Waste Measurement
+#### PlateTracker — Intelligent Food-Waste Measurement
 
 I develop and deploy an automated plate-waste tracking system in VCU dining operations, integrating Raspberry Pi devices, precision weighing sensors, NFC identification, cameras, and touchscreen applications. It captures measurements at food-serving and dish-return stations, connecting physical workflows with structured digital records. My work spans hardware–software integration, Python development, computer vision research, device reliability, and automated data collection in an active dining environment.
 
-### Food Waste Analytics — Data Engineering & Decision Support
+*Project details: [VCU MuSIC Lab — FoodTrack](https://music.lab.vcu.edu/projects/foodtrack/)*
+
+#### Food Waste Analytics — Data Engineering & Decision Support
 
 I develop data-processing workflows that turn PlateTracker's raw measurements into reliable food-waste records, including automated ETL, validation, serving–return reconciliation, and handling incomplete or uncertain observations. The aim is to support analysis across food stations and meal periods, providing a foundation for dashboards, research evaluations, and evidence-based waste-reduction decisions.
 
-**Research context:** [USDA SARE project FLW24-004](https://projects.sare.org/sare_project/flw24-004/)
+*Project context: [USDA SARE — FLW24-004](https://projects.sare.org/sare_project/flw24-004/)*
 
 ## 🚀 Selected Projects
 
