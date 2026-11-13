@@ -1,30 +1,116 @@
-## Hi there 👋
-# 💫 About Me:
-Master's student in Computer Science at Virginia Commonwealth University.<br><br> Software engineer interested in building practical solutions across software development, artificial intelligence, cloud computing, and data engineering.<br><br> Currently working as a Graduate Research Assistant at VCU, developing intelligent food-waste tracking systems that combine Raspberry Pi hardware, computer vision, and automated data pipelines.<br><br> My projects range from full-stack applications and machine learning systems to cloud-based data platforms and AI-assisted infrastructure tools.<br><br> Interested in collaborating on meaningful projects involving software engineering, applied AI, and scalable systems.<br><br> I enjoy turning complex ideas into working systems that solve real-world problems.
+<div align="center">
 
+# Hi there, I'm Aneesh Reddy! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneeshreddy2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshreddy2304@gmail.com) 
+### Software Engineering · Applied AI · Cloud & Data Systems
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat-square&logo=opentelemetry&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aneeshreddy2304&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aneeshreddy2304&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aneeshreddy2304&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**M.S. Computer Science @ Virginia Commonwealth University** · **AWS Certified Solutions Architect – Associate**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**aneeshreddy2304/aneeshreddy2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical software and intelligent systems — from research hardware to cloud platforms, machine learning, and full-stack applications.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeshreddy2304)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshreddy2304)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshreddy2304@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer and graduate researcher at **Virginia Commonwealth University**, working across software development, data engineering, applied AI, and cloud infrastructure.
+
+- 🔭 **Currently building:** food-waste tracking and analytics systems that connect Raspberry Pi devices, calibrated weighing, NFC identification, and data-processing workflows.
+- 💡 **What I enjoy:** turning ideas into usable, maintainable applications — from the backend and data pipeline to the interface.
+- 🤝 **Interested in:** collaborating on software engineering, machine learning, and cloud-native projects.
+- ☁️ **Certified:** AWS Solutions Architect – Associate.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-212121?style=for-the-badge&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Cloud, Databases & Developer Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+### [Retail Decision Lab](https://github.com/aneeshreddy2304/Retail-Decision-Lab) — Retail Forecasting & Decision Intelligence
+
+- Developed a Python-based retail decision-support workspace using historical store-sales data, demand forecasting, promotion exploration, and SQL analytics.
+- Built reproducible feature engineering, machine-learning workflows, and a Streamlit interface for examining demand and planning scenarios.
+
+**Stack:** Python · LightGBM · pandas · Streamlit · SQLite
+
+### [IncidentPilot](https://github.com/aneeshreddy2304/IncidentPilot) — AI-Assisted Kubernetes Operations
+
+- Built a Kubernetes operations console that brings together workload health, cluster diagnostics, logs, and metrics.
+- Integrated AI-assisted investigation with a human-review process for proposed infrastructure remediation.
+
+**Stack:** Go · React · Kubernetes · Prometheus · Ollama
+
+### [AirPulse](https://github.com/aneeshreddy2304/AirPulse) — Air-Quality Data & ML Platform
+
+- Developed environmental data ingestion and cloud lakehouse workflows to support air-quality forecasting and analysis.
+- Connected model training and artifacts to a FastAPI prediction service with caching and supporting data infrastructure.
+
+**Stack:** Python · AWS · Apache Iceberg · XGBoost · FastAPI · Redis
+
+### [Wingman / RoadAssist](https://github.com/aneeshreddy2304/Wingman) — Full-Stack Roadside Assistance
+
+- Built a platform for location-aware mechanic discovery, roadside service coordination, and spare-parts workflows.
+- Developed role-based frontend experiences, backend services, and geospatial database operations.
+
+**Stack:** FastAPI · React · PostgreSQL · PostGIS · Docker
+
+### [EmotionX](https://github.com/aneeshreddy2304/EmotionX) — Multi-Label Emotion Recognition
+
+- Developed a hybrid NLP workflow combining contextual language representations, bidirectional sequence modeling, and attention.
+- Organized training, evaluation, and interactive inference around a multi-label emotion classification task.
+
+**Stack:** PyTorch · Transformers · BiLSTM · scikit-learn
+
+<div align="center">
+
+**[Explore All Repositories](https://github.com/aneeshreddy2304?tab=repositories)**
+
+</div>
+
+## 🔬 Research at VCU
+
+### PlateTracker — Edge Computing & Food-Waste Measurement
+
+Graduate research developing a food-service measurement system that integrates **Raspberry Pi hardware, weighing sensors, NFC identification, camera capture, and local data collection** to record serving and return events.
+
+### Food Waste Analytics — Data Engineering & Decision Support
+
+Developing structured workflows to validate serving and return records, reconcile food-waste measurements, handle uncertain observations, and organize data for dining and sustainability analysis.
+
+*University research source code and datasets are not publicly linked.*
+
+## 🎓 Education & Certification
+
+- **M.S. in Computer Science** — Virginia Commonwealth University
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm interested in conversations and opportunities involving software engineering, applied AI, and cloud/data systems.
+
+[**LinkedIn**](https://www.linkedin.com/in/aneeshreddy2304) · [**Email**](mailto:aneeshreddy2304@gmail.com) · [**Repositories**](https://github.com/aneeshreddy2304?tab=repositories)
+
+</div>
